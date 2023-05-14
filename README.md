@@ -1,5 +1,2 @@
-# TimeSavvy
-A desktop productivity app to help manage your time
-
-# Installation
-App is still currently under development
+# Planner Project
+Simple Java CLI Program to create and organize a Planner in a To-do list format with tasks and deadlines
